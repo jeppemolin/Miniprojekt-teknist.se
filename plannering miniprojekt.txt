@@ -1,0 +1,19 @@
+Planering Hemsida Teknist.se
+
+V1Denna veckan ska grundligheterna till hemsidan förstås för att lättare kunna göra en hemsida efter Kundens behov
+rätt färger viktig info simpel design som stämmer med klienten
+
+
+
+V2
+slutet av vecka 2 ska en snygg header ha framställts med funktionalitet likväl stil jag tänker den ska vara SPA 
+
+
+
+V3
+slutet av vecka 3 skall en snygg body vara etablerad med all nödvändig information om klientens "produkt".
+
+
+
+V4
+vid slutet av vecka 4 skall footern vara slutförd med kontakt uppgifter till administrativa inom "företaget"
